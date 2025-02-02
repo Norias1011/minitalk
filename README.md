@@ -57,6 +57,4 @@ Use the client with the server's PID and a message:
 ## License
 This project is part of the 42 curriculum and follows its guidelines.
 
----
-This README provides clear instructions and highlights key project details. Let me know if you'd like modifications! 🚀
 
